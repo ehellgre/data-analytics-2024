@@ -1,5 +1,5 @@
 Course stack:
-python
+python (Jupyter)
 
 libraries:
 NumPy, pandas

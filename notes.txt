@@ -1,1 +1,5 @@
-test
+Course stack:
+python
+
+libraries:
+NumPy, pandas
